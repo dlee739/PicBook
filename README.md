@@ -1,7 +1,7 @@
 # PicBook
 Full-stack photo sharing social media platform for amateur photographers
 
-Technologies: Python, Django, HTML/CSS
+Technologies: Python, JavaScript, Django, HTML/CSS
 
 How to Run:
 
